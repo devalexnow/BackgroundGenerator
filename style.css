@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Golos+Text&family=Marcellus&display=swap');
+
+body {
+	font: Marcellus, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    top: 15%;
+}
+
+h1 {
+    font: 600 3.5em Marcellus, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    width: 100%;
+}
+
+h2 {
+    font: 600 2em Marcellus, sans-serif;
+}
+
+h3 {
+	font: 700 1.7em Calibri, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.02em;
+}
+
+#random {
+    font: 400 1.5em Calibri, sans-serif;
+    border-radius: 23px;
+    background-color: rgb(66, 65, 65);
+    color: rgb(218, 214, 214);
+    padding: 12px;
+}
+
+#random:hover {
+    opacity: 75%;
+}
